@@ -1,0 +1,22 @@
+header {
+    color: rgb(187, 131, 131);
+    font-size: 34px;
+    text-align: center;
+}
+
+table {
+    margin-top: 12px;
+    margin-left: 34%;
+    margin-right: auto;
+
+    position: fixed;
+}
+
+tr, td {
+    padding: 10px;
+}
+
+input[type="submit"]:hover {
+    background-color: rgb(112, 77, 77);
+    color: white;
+}
